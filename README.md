@@ -1,7 +1,7 @@
 # DBCaseApplication
 #Webservice: Distanzrechner Bahnhöfe
 ##Technologien / Softwarekomponenten:
-  -Java (neueste Version)
+-Java (neueste Version)
   -Eclipse (neueste Version)
   -Springboot: Spring Initialir verwendet
     -Maven Project Management
