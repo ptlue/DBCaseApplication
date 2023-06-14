@@ -1,0 +1,18 @@
+{
+  "frontendFolder": "C:/Users/pia/OneDrive/Dokumente/Bewerbungen/Casestudy/case/case/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/pia/OneDrive/Dokumente/Bewerbungen/Casestudy/case/case/./frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/pia/OneDrive/Dokumente/Bewerbungen/Casestudy/case/case/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\pia\\OneDrive\\Dokumente\\Bewerbungen\\Casestudy\\case\\case\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\pia\\OneDrive\\Dokumente\\Bewerbungen\\Casestudy\\case\\case\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/pia/OneDrive/Dokumente/Bewerbungen/Casestudy/case/case/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/pia/OneDrive/Dokumente/Bewerbungen/Casestudy/case/case/src/main/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/pia/OneDrive/Dokumente/Bewerbungen/Casestudy/case/case/./frontend/generated/jar-resources",
+  "generatedFlowImportsFolder": "target/frontend",
+  "themeName": "",
+  "clientServiceWorkerSource": "C:\\Users\\pia\\OneDrive\\Dokumente\\Bewerbungen\\Casestudy\\case\\case\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
